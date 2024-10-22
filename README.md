@@ -5,7 +5,7 @@
 - 👀 I'm interested in Full Stack Web Development and Mobile App Development
 - 🌱 I'm currently expanding my skills in Modern PHP Frameworks and Android Development
 - 💞️ I'm looking to collaborate on Web Applications and Mobile Projects
-- 📫 How to reach me: [LinkedIn Profile](#) | [Email](#)
+- 📫 How to reach me: [LinkedIn Profile](URL:https://www.linkedin.com/in/nezar-el-ayachi-68b0192a2/) | [Email]((mailto:nezarelayachi@gmail.com)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I can debug in multiple languages without losing my mind! 💻
 
