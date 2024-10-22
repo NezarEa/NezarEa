@@ -2,7 +2,7 @@
 
 ### About Me 👋
 - 👋 Hi, I'm @NezarElAyachi
-- 👀 I'm interested in Full Stack Web Development and Mobile App Development
+- 👀 I'm interested in Mobile App Development
 - 🌱 I'm currently expanding my skills in Modern PHP Frameworks and Android Development
 - 💞️ I'm looking to collaborate on Web Applications and Mobile Projects
 - 📫 How to reach me: [LinkedIn Profile](https://www.linkedin.com/in/nezar-el-ayachi-68b0192a2/) | [Email](mailto:nezarelayachi@gmail.com)
