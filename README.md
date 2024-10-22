@@ -14,7 +14,7 @@
 - **Backend:**
   - PHP
   - MySQL
-  - Apache/Nginx
+  - Apache
   
 - **Frontend:**
   - HTML5
