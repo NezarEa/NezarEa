@@ -1,7 +1,7 @@
 # Nezar El Ayachi
 
 ### About Me 👋
-- 👋 Hi, I'm @NezarElAyachi
+- 👋 Hi, I'm @NezarEa
 - 👀 I'm interested in Mobile App Development
 - 🌱 I'm currently expanding my skills in Modern PHP Frameworks and Android Development
 - 💞️ I'm looking to collaborate on Web Applications and Mobile Projects
