@@ -41,12 +41,12 @@
 - **Others:** XAMPP, Composer
 
 ### GitHub Stats 📊
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=NezarElAyachi&show_icons=true&theme=radical)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=NezarEa&show_icons=true&theme=radical)
 
 ### Top Languages 💻
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NezarElAyachi&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NezarEa&layout=compact&theme=radical)
 
 <!---
-NezarElAyachi/NezarElAyachi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+NezarEa/NezarEa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
