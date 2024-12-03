@@ -22,6 +22,7 @@
   - JavaScript
   - Bootstrap
   - Materialize
+  - tailwindCSS
 
 #### Mobile Development
 - **Android:**
