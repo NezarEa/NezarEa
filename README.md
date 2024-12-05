@@ -43,10 +43,11 @@
 - **API Testing:** Postman
 - **Others:** XAMPP, Composer
 
-###Languages and Tools:
+### Languages and Tools:
 <p align="center">
   <a href="https://skillicons.dev">
-<img src="https://skillicons.dev/icons?i=androidstudio,kotlin,figma,css,bootstrap,tailwind,materialize,firebase,flutter,git,github,gradle,html,idea,ai,js,linux,maven,mysql,nodejs,npm,php,postman,py,pycharm,sqlite,visualstudio,vscode,windows,&theme=dark&perline=12"\>
+    <img src="https://skillicons.dev/icons?i=androidstudio,kotlin,figma,xd,css,bootstrap,tailwind,firebase,flutter,git,github,gradle,maven,html,js,nodejs,threejs,react,npm,php,postman,py,sqlite,mysql,visualstudio,vscode,idea,pycharm,windows,linux&theme=dark&perline=12" />
+  </a>
 </p>
 
 ### GitHub Stats 📊
@@ -55,7 +56,3 @@
 ### Top Languages 💻
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NezarEa&layout=compact&theme=radical)
 
-<!---
-NezarEa/NezarEa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
