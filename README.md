@@ -46,7 +46,7 @@
 ###Languages and Tools:
 <p align="center">
   <a href="https://skillicons.dev">
-<img src="https://skillicons.dev/icons?i=androidstudio,kotlin,figma,css,bootstrap,tailwind,Materialize,firebase,flutter,git,github,gradle,html,idea,ai,js,linux,maven,mysql,nodejs,npm,php,postman,py,pycharm,sqlite,visualstudio,vscode,windows,&theme=dark&perline=12"\>
+<img src="https://skillicons.dev/icons?i=androidstudio,kotlin,figma,css,bootstrap,tailwind,materialize,firebase,flutter,git,github,gradle,html,idea,ai,js,linux,maven,mysql,nodejs,npm,php,postman,py,pycharm,sqlite,visualstudio,vscode,windows,&theme=dark&perline=12"\>
 </p>
 
 ### GitHub Stats 📊
