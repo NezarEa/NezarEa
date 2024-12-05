@@ -20,6 +20,9 @@
   - HTML5
   - CSS3
   - JavaScript
+  - Node.js
+  - three.js
+  - vue.js
   - Bootstrap
   - Materialize
   - tailwindCSS
