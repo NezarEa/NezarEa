@@ -27,6 +27,8 @@
 #### Mobile Development
 - **Android:**
   - Kotlin
+  - Flutter
+  - Dart
   - Android SDK
   - Android Studio
   - XML/JetPack
@@ -40,6 +42,12 @@
 - **Database Tools:** MySQL Workbench, phpMyAdmin, FireBase
 - **API Testing:** Postman
 - **Others:** XAMPP, Composer
+
+###Languages and Tools:
+<p align="center">
+  <a href="https://skillicons.dev">
+<img src="https://skillicons.dev/icons?i=androidstudio,kotlin,figma,css,bootstrap,tailwind,Materialize,firebase,flutter,git,github,gradle,html,idea,ai,js,linux,maven,mysql,nodejs,npm,php,postman,py,pycharm,sqlite,visualstudio,vscode,windows,&theme=dark&perline=12"\>
+</p>
 
 ### GitHub Stats 📊
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=NezarEa&show_icons=true&theme=radical)
