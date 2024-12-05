@@ -21,11 +21,11 @@
   - CSS3
   - JavaScript
   - Node.js
-  - three.js
-  - vue.js
+  - Three.js
+  - React
   - Bootstrap
   - Materialize
-  - tailwindCSS
+  - TailwindCSS
 
 #### Mobile Development
 - **Android:**
