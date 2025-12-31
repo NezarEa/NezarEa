@@ -55,6 +55,7 @@
 
 ### GitHub Stats 📊
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=NezarEa&show_icons=true&hide_border=true&theme=radical&count_private=true" />
+  
   ![Top Language](https://img.shields.io/github/languages/top/NezarEa?style=for-the-badge&logo=github)
 </p>
+
