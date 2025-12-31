@@ -56,6 +56,6 @@
 ### GitHub Stats 📊
 <p align="center">
   
-  ![Top Language](https://img.shields.io/github/languages/top/NezarEa?style=for-the-badge&logo=github)
+  ![Top Language](https://img.shields.io/github/languages/top/NezarEa/REPO_NAME?style=for-the-badge&logo=github)
 </p>
 
