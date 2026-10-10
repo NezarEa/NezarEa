@@ -1,54 +1,119 @@
 # Hi, I'm Nezar El Ayachi 👋
 
-I'm a web and mobile developer interested in building useful applications and learning new technologies along the way.
+I'm a Web and Mobile Developer who enjoys building applications, learning new technologies, and working on projects that solve real problems.
 
-I enjoy working on projects that help me improve my skills, whether it's developing a website, building an Android app, or exploring a new framework.
+I have a background in Web and Mobile Development and enjoy working on both frontend and backend development, as well as native and cross-platform mobile applications.
 
-- 💻 Interested in web and mobile development
-- 📱 Working with Kotlin, Flutter, and Android development
-- 🌐 Building web applications with PHP, Laravel, JavaScript, and React
-- 🌱 Currently improving my skills and exploring new technologies
-- 🤝 Open to collaborating on interesting projects
-- 📫 Reach me at **[Email](mailto:nezarelayachi@gmail.com)** or connect with me on [LinkedIn](https://www.linkedin.com/in/nezar-el-ayachi-68b0192a2/)
+- 💻 Interested in web development, mobile applications, and software development.
+- 📱 Working with Kotlin, Android, Flutter, and Dart.
+- 🌐 Building web applications with PHP, JavaScript, React, and modern frameworks.
+- 🌱 Always learning and improving my development skills.
+- 🤝 Open to collaborating on web and mobile projects.
+- 📫 Email: [nezarelayachi@gmail.com](mailto:nezarelayachi@gmail.com)
+- 💼 LinkedIn: [Nezar El Ayachi](https://www.linkedin.com/in/nezar-el-ayachi-68b0192a2/)
 
-## Technologies I use
+## 🛠️ Skills & Technologies
 
-**Web Development**
-
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,vue,threejs,bootstrap,tailwind,php,laravel,symfony,nodejs,python,django" alt="Web development technologies" />
-</p>
-
-**Mobile Development**
+### 🌐 Frontend Development
 
 <p>
-  <img src="https://skillicons.dev/icons?i=kotlin,androidstudio,flutter,dart,firebase,sqlite" alt="Mobile development technologies" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,vue,threejs,bootstrap,tailwind" alt="Frontend technologies" />
 </p>
 
-**Tools and Databases**
+- HTML5, CSS3, JavaScript
+- React.js, Vue.js
+- Three.js
+- Bootstrap, Materialize CSS, Tailwind CSS
+- Responsive web design and user interfaces
+
+### ⚙️ Backend Development
 
 <p>
-  <img src="https://skillicons.dev/icons?i=mysql,git,github,vscode,idea,postman,figma,linux,gradle,maven" alt="Development tools and databases" />
+  <img src="https://skillicons.dev/icons?i=php,laravel,symfony,nodejs,python,django" alt="Backend technologies" />
 </p>
 
-I also work with Android SDK, Jetpack, XML layouts, Retrofit, Composer, and XAMPP.
+- PHP
+- Laravel
+- Symfony
+- Node.js
+- Python
+- Django
+- REST APIs and server-side development
+- Composer and Apache
 
-## GitHub Stats
+### 📱 Mobile Development
+
+<p>
+  <img src="https://skillicons.dev/icons?i=kotlin,androidstudio,flutter,dart,firebase,sqlite" alt="Mobile technologies" />
+</p>
+
+- Kotlin and native Android development
+- Android SDK and Android Studio
+- XML layouts, Android Jetpack, and ViewBinding
+- Flutter and Dart
+- Retrofit and API integration
+- Firebase
+- SQLite
+- Mobile application architecture and development
+
+### 🗄️ Databases
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,sqlite,firebase" alt="Database technologies" />
+</p>
+
+- MySQL
+- SQLite
+- Firebase
+- MySQL Workbench
+- phpMyAdmin
+- Database design and SQL queries
+
+### 🧰 Tools & Development Environment
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,idea,phpstorm,pycharm,postman,figma,xd,gradle,maven,composer,linux,windows" alt="Development tools" />
+</p>
+
+- **IDEs:** Android Studio, Visual Studio Code, IntelliJ IDEA, PhpStorm, PyCharm
+- **Version Control:** Git, GitHub
+- **API Testing:** Postman
+- **Build Tools:** Gradle, Maven
+- **Package Management:** npm, Composer
+- **Local Development:** XAMPP, Apache
+- **Design Tools:** Figma, Adobe XD, Canva
+- **Operating Systems:** Windows, Linux
+
+### 🧩 Programming Languages
+
+- Kotlin
+- JavaScript
+- PHP
+- Python
+- Java
+- Dart
+- Swift
+- SQL
+- HTML and CSS
+
+## 🚀 Projects
+
+Here are some of the projects I've worked on:
+
+- **MedicalExtras** — A web platform for medical and parapharmacy products, built with modern web technologies.
+- **Web Applications** — Websites and full-stack applications using PHP, MySQL, JavaScript, and modern frameworks.
+- **Mobile Applications** — Android applications using Kotlin and cross-platform applications using Flutter.
+
+You can explore my projects here: [GitHub Repositories](https://github.com/NezarEa?tab=repositories).
+
+## 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=NezarEa&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NezarEa&layout=compact&theme=tokyonight&hide_border=true" alt="Most used languages" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=NezarEa&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub statistics" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NezarEa&layout=compact&theme=tokyonight&hide_border=true" alt="Most used programming languages" />
 </p>
 
-## A few things I've worked on
-
-- **MedicalExtras** — A web platform for medical and parapharmacy products.
-- **Web projects** — Websites and applications built with different web technologies.
-- **Mobile projects** — Android and cross-platform applications.
-
-You can find more of my work in my [repositories](https://github.com/NezarEa?tab=repositories).
-
-## Find me online
+## 📫 Contact
 
 <p>
   <a href="https://github.com/NezarEa">
@@ -61,3 +126,7 @@ You can find more of my work in my [repositories](https://github.com/NezarEa?tab
     <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
+
+---
+
+*Always learning, building, and improving through practical projects.*
