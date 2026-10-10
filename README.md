@@ -1,55 +1,63 @@
-# Nezar El Ayachi
+# Hi, I'm Nezar El Ayachi 👋
 
-### About Me 👋
-- 👋 Hi, I'm [NezarEa](https://github.com/NezarEa/NezarElAyachi)
-- 👀 I'm interested in Mobile App Development
-- 🌱 I'm currently expanding my skills in Modern PHP Frameworks and Android Development
-- 💞️ I'm looking to collaborate on Web Applications and Mobile Projects
-- 📫 How to reach me: [LinkedIn Profile](https://www.linkedin.com/in/nezar-el-ayachi-68b0192a2/) | [Email](mailto:nezarelayachi@gmail.com)
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I can debug in multiple languages without losing my mind! 💻
+I'm a web and mobile developer interested in building useful applications and learning new technologies along the way.
 
-### Tech Stack 🛠️
-#### Web Development
-- **Backend:**
-  - PHP
-  - MySQL
-  - Apache
-  
-- **Frontend:**
-  - HTML5
-  - CSS3
-  - JavaScript
-  - Node.js
-  - Three.js
-  - React
-  - Bootstrap
-  - Materialize
-  - TailwindCSS
+I enjoy working on projects that help me improve my skills, whether it's developing a website, building an Android app, or exploring a new framework.
 
-#### Mobile Development
-- **Android:**
-  - Kotlin
-  - Flutter
-  - Dart
-  - Android SDK
-  - Android Studio
-  - XML/JetPack
-  - retrofit
-  - FireBase
-  - SQLite
+- 💻 Interested in web and mobile development
+- 📱 Working with Kotlin, Flutter, and Android development
+- 🌐 Building web applications with PHP, Laravel, JavaScript, and React
+- 🌱 Currently improving my skills and exploring new technologies
+- 🤝 Open to collaborating on interesting projects
+- 📫 Reach me at **[Email](mailto:nezarelayachi@gmail.com)** or connect with me on [LinkedIn](https://www.linkedin.com/in/nezar-el-ayachi-68b0192a2/)
 
-### Development Tools 🔧
-- **IDE/Editors:** Android Studio, VS Code, PHPStorm, IntelliJ IDEA
-- **Version Control:** Git, GitHub
-- **Database Tools:** MySQL Workbench, phpMyAdmin, FireBase
-- **API Testing:** Postman
-- **Others:** XAMPP, Composer
+## Technologies I use
 
-### Languages and Tools:
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=androidstudio,kotlin,figma,xd,css,bootstrap,tailwind,firebase,flutter,git,github,gradle,maven,html,js,nodejs,threejs,react,npm,php,postman,py,sqlite,mysql,visualstudio,vscode,idea,pycharm,windows,linux&theme=dark&perline=12" />
-  </a>
+**Web Development**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,vue,threejs,bootstrap,tailwind,php,laravel,symfony,nodejs,python,django" alt="Web development technologies" />
 </p>
 
+**Mobile Development**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=kotlin,androidstudio,flutter,dart,firebase,sqlite" alt="Mobile development technologies" />
+</p>
+
+**Tools and Databases**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,git,github,vscode,idea,postman,figma,linux,gradle,maven" alt="Development tools and databases" />
+</p>
+
+I also work with Android SDK, Jetpack, XML layouts, Retrofit, Composer, and XAMPP.
+
+## GitHub Stats
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=NezarEa&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NezarEa&layout=compact&theme=tokyonight&hide_border=true" alt="Most used languages" />
+</p>
+
+## A few things I've worked on
+
+- **MedicalExtras** — A web platform for medical and parapharmacy products.
+- **Web projects** — Websites and applications built with different web technologies.
+- **Mobile projects** — Android and cross-platform applications.
+
+You can find more of my work in my [repositories](https://github.com/NezarEa?tab=repositories).
+
+## Find me online
+
+<p>
+  <a href="https://github.com/NezarEa">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://www.linkedin.com/in/nezar-el-ayachi-68b0192a2/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:nezarelayachi@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
