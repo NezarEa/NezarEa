@@ -135,35 +135,19 @@ I work on both frontend and backend development, as well as native and cross-pla
 ### 💻 Programming Languages
 
 <p>
-  <img src="https://skillicons.dev/icons?i=js,php,python,kotlin,java,dart,swift,html,css" alt="Programming languages" />
+  <img src="https://skillicons.dev/icons?i=js,php,python,kotlin,dart,swift" alt="Programming languages" />
 </p>
 
 - JavaScript
 - PHP
 - Python
 - Kotlin
-- Java
 - Dart
 - Swift
-- SQL
-- HTML5
-- CSS3
 
 ---
 
 ## 🚀 Projects
-
-### 🏥 MedicalExtras
-
-A web platform for medical and parapharmacy products, designed to make browsing products and placing orders easier.
-
-- Product catalog and product management
-- Administrative dashboard
-- WhatsApp-based ordering
-- Next.js application development
-- Database integration and deployment
-
-**Repository:** [MedicalExtras](https://github.com/NezarEa/MedicalExtras)
 
 ### 🌐 Web Development Projects
 
