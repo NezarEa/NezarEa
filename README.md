@@ -11,9 +11,6 @@ I work on both frontend and backend development, as well as native and cross-pla
 - ☁️ Interested in cloud computing, Azure, Docker, and CI/CD.
 - 🌱 Always learning and improving through practical projects.
 - 🤝 Open to collaborating on web and mobile projects.
-- 📫 Email: [nezarelayachi@gmail.com](mailto:nezarelayachi@gmail.com)
-- 💼 LinkedIn: [Nezar El Ayachi](https://www.linkedin.com/in/nezar-el-ayachi-68b0192a2/)
-- 🧑‍💻 GitHub: [@NezarEa](https://github.com/NezarEa)
 
 ---
 
